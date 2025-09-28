@@ -1,22 +1,12 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+# Hey 👋 What's up?
 
-###
+My name is Ritesh Kumar Behera and I’m a 2nd year B.Tech CSE (AIML) student from Odisha, India, aspiring to be an AI/ML Engineer.
 
-<p align="left">My name is Ritesh Kumar Behera and I’m a 2nd year B.Tech CSE (AIML) student from Odisha, India, aspiring to be an AI/ML Engineer.</p>
+# About me
 
-###
+✨ Creating bugs since 2023.<br>📚 I'm currently learning ML model development and training.<br>🎯 Goals: Become an AI/ML Engineer and work on real-world projects.<br>🎲 Fun fact: Sometimes I write code that scares even me at 3 AM.
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">✨ Creating bugs since 2023.<br>📚 I'm currently learning ML model development and training.<br>🎯 Goals: Become an AI/ML Engineer and work on real-world projects.<br>🎲 Fun fact: Sometimes I write code that scares even me at 3 AM.</p>
-
-###
-
-<h2 align="left">I code with</h2>
-
-###
+# I code with</h2>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
@@ -34,4 +24,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
 </div>
 
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/asmrprog-yt/asmrprog-yt/output/github-snake.svg" />
+</picture>
+
