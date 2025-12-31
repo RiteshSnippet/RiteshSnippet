@@ -1,27 +1,11 @@
-# Hey 👋 What's up?
+# ✨ Who am I?
+My name is **Ritesh Kumar Behera** and I’m a 2nd year B.Tech CSE (AIML) student from India, aspiring to be an AI/ML Engineer.
 
-My name is Ritesh Kumar Behera and I’m a 2nd year B.Tech CSE (AIML) student from Odisha, India, aspiring to be an AI/ML Engineer.
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/riteshkumarbehera) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:riteshkubehera.ofc@gmail.com) 
 
-# About me
-
-✨ Creating bugs since 2023.<br>📚 I'm currently learning ML model development and training.<br>🎯 Goals: Become an AI/ML Engineer and work on real-world projects.<br>🎲 Fun fact: Sometimes I write code that scares even me at 3 AM.
-
-# I code with</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="40" alt="matlab logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40" alt="pandas logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-</div>
-
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=RiteshSnippet&theme=transparent&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=RiteshSnippet&theme=transparent&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=RiteshSnippet&theme=transparent&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
